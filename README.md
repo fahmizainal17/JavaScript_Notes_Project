@@ -1,1 +1,1 @@
-# main.js
+# Data Science Asssociation
