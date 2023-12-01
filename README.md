@@ -1,6 +1,6 @@
 # Data Science Asssociation
 
-console.log("Ladies and gentlemen, esteemed members of the Malaysian Data Science Association, and distinguished guests,
+Ladies and gentlemen, esteemed members of the Malaysian Data Science Association, and distinguished guests,
 
 A warm and heartfelt welcome to each and every one of you on this momentous occasion—the 1st anniversary of the Malaysian Data Science Association, established on November 30, 2023. Today, we gather here not just as individuals but as a community bound by a shared passion for data science and a collective commitment to shaping the future through insights, innovation, and collaboration.
 
@@ -14,4 +14,4 @@ As we move forward, let us continue to inspire and support one another. Let the 
 
 Once again, a warm welcome to our anniversary celebration. May the coming years be filled with even greater achievements, deeper connections, and boundless possibilities for the Malaysian Data Science Association.
 
-Thank you, and let the celebration begin!")
+Thank you, and let the celebration begin!
