@@ -42,7 +42,7 @@ class LinearRegressionModel {
 async function main() {
     // Define model parameters
     const inputSize = 1;
-    const outputSize = 1;
+    const outputSize = 2;
     const learningRate = 0.01;
     const numEpochs = 100;
 
