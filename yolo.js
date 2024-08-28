@@ -1,1 +1,1 @@
-console.log('fahmizainal Badges')
+console.log("Yolo badges")

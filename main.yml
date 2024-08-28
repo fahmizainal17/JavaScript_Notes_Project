@@ -1,0 +1,18 @@
+# YAML configuration
+server:
+  host: localhost
+  port: 3000
+
+database:
+  name: my_database
+  username: admin
+  password: secret
+
+logging:
+  level: info
+  file: logs/app.log
+
+features:
+  - authentication
+  - caching
+  - monitoring
